@@ -10,6 +10,6 @@ GIF for a quick demo: <br>
 
 ![demo](assets/Dashboard.gif)
 
-<b>Update:</b> Added the email functionality using Gmail's SMTP. However, Google recently disabled the "receive emails from less secure apps"functionality, meaning
+<b>Update:</b> Added the email functionality using Gmail's SMTP. However, Google recently disabled the "receive emails from less secure apps" functionality, meaning
 I could no longer directly use my email id and password to login via heroku. The easy workaround is to setup an app password for the dashboard, the slightly complex 
-workaround would be to add a gmail login functionality to the dashboard. Also, finally added a quick and dirty about page..woohoo!!
+workaround would be to add a gmail login functionality to the dashboard. Also, I finally added a quick and dirty about page..woohoo!!
