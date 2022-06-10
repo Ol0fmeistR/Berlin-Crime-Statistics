@@ -10,6 +10,6 @@ GIF for a quick demo: <br>
 
 ![demo](assets/Dashboard.gif)
 
-Feel free to fork/download and add your own features. For starters, the email functionality of the feedback form can be implemented. An easy solution for this would 
-be to use Gmail's SMTP but you would have to set your gmail account to accept emails from less secure sources. The about page can also be implemented if you want, I
-just felt too lazy.
+<b>Update:</b> Added the email functionality using Gmail's SMTP. However, Google recently disabled the "receive emails from less secure apps"functionality, meaning
+I could no longer directly use my email id and password to login via heroku. The easy workaround is to setup an app password for the dashboard, the slightly complex 
+workaround would be to add a gmail login functionality to the dashboard. Also, finally added a quick and dirty about page..woohoo!!
